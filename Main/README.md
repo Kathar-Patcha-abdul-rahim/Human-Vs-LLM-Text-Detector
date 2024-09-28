@@ -17,6 +17,3 @@ In response to this challenge, our project aims to develop robust classification
 - **Environment**:
   Holds the packages used for training, evaluation, and development of our model.
 
-## Contributors
-- Abishek Joshua Tennyson (@abishek-joshua)
-- Cibhi Baskar (@cibhibaskar)
